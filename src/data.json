@@ -1,0 +1,40 @@
+{
+    "previousRulings":[
+       {
+          "id":1,
+          "targetImg":"kanye_west.png",
+          "name":"Kanye West",
+          "historyTime":"1 month ago",
+          "category":"Entertainment",
+          "thumbsUp":64,
+          "thumbsDown":36
+       },
+       {
+          "id":2,
+          "targetImg":"mark_zuckerberg.png",
+          "name":"Mark Zuckerberg",
+          "historyTime":"1 month ago",
+          "category":"Business",
+          "thumbsUp":36,
+          "thumbsDown":64
+       },
+       {
+          "id":3,
+          "targetImg":"cristina_ferdandez_de_kirchner.png",
+          "name":"Cristina Fernández de Kirchner",
+          "historyTime":"1 month ago",
+          "category":"Politics",
+          "thumbsUp":36,
+          "thumbsDown":64
+       },
+       {
+          "id":4,
+          "targetImg":"malala_yousafzai.png",
+          "name":"Malala Yousafzai",
+          "historyTime":"1 month ago",
+          "category":"Entertainment",
+          "thumbsUp":64,
+          "thumbsDown":36
+       }
+    ]
+ }

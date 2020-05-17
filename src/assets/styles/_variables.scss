@@ -1,0 +1,15 @@
+$header-height: 100px;
+$base-color: #ffffff;
+$margin-left: 123px;
+$margin-right: 133px;
+
+$margin-left-tablet: 32px;
+$margin-right-tablet: 32px;
+
+$margin-left-mobile: 16px;
+$margin-right-mobile: 16px;
+
+@media screen and (max-width: 768px) {
+  $margin-left: 60px;
+  $margin-right: 60px;
+}
